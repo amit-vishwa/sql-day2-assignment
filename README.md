@@ -1,0 +1,1 @@
+# sql-day2-assignment
